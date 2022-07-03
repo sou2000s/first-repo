@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(242, 192, 131);
+}
+
+div ul li img{
+    width: 25px;
+}
+
+    div ul{
+  list-style: none;
+  
+}
+
+
+.main{
+    padding: 50px 20px 
+    30px;
+    display: flex;
+    background-color: aqua;
+    width: 50%;
+}
+.main .image{
+  margin-left: 25px;
+ ;
+}
+
+.main .heading{
+  padding: 35px;
+}
+/* navbar */
+
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 30px;
+}
+
+nav ul li a {
+
+ text-decoration: none;
+ padding: 30px;
+ color:brown;
+
+}/* my photo */
+
